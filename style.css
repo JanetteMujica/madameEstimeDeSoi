@@ -33,6 +33,11 @@ h2 {
 	height: max-content;
 }
 
+h3  {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.2em;
+}
+
 p {
 	color: var(--noir);
 	font-size: 1.2em;
@@ -61,11 +66,12 @@ p {
 }
 
 .note {
-        font-family: 'Open Sans', sans-serif;­
-        font-style: italic;
-	color: var(--noir);
-	font-size: 1.2em;
-	font-weight: 500;
-	line-height: 1.6;
-	margin-bottom: 3em;
-      }
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    color: var(--noir);
+    font-size: 1.2em;
+    font-weight: 500;
+    line-height: 1.6;
+    margin-bottom: 3em;
+}
+
