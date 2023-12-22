@@ -7,10 +7,12 @@
 }
 
 body {
-	max-width: 600px;
+	max-width: 632px;
 	margin: auto;
 	background-color: #ff8fb2;
 	font-family: 'Open Sans', sans-serif;
+	padding-right: 1em;
+	padding-left: 1em;
 }
 
 
