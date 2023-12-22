@@ -10,18 +10,19 @@ body {
 	max-width: 632px;
 	margin: auto;
 	background-color: #ff8fb2;
-	font-family: 'Open Sans', sans-serif;
 	padding-right: 1em;
 	padding-left: 1em;
 }
 
 
 h1 {
+	font-family: 'Open Sans', sans-serif;
 	margin-top: 2em;
 	font-size: 3em;
 }
 
 h2 {
+	font-family: 'Open Sans', sans-serif;
 	margin-top: 2em;
 	font-size: 1.2em;
 	color: white;
@@ -60,8 +61,8 @@ p {
 }
 
 .note {
-      font-family: 'Open Sans', sans-serif;­
-      font-style: italic;
+        font-family: 'Open Sans', sans-serif;­
+        font-style: italic;
 	color: var(--noir);
 	font-size: 1.2em;
 	font-weight: 500;
